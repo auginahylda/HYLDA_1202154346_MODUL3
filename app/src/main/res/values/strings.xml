@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HYLDA_1202154346_MODUL3</string>
+    <string name="title">title</string>
+    <string name="label">news label</string>
+    <string name="description">Description</string>
+    <string name="button_minus">button minus</string>
+    <string name="litre">litre</string>
+    <string name="button_plus">button plus</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="username">Username</string>
+    <string name="air_info_placeholder">Here is some detail</string>
+    <string name="filler_text">Ini adalah salah satu produk kami, silahkan memilih salah satu dri kami. PH yang kami berikan adalah sama, hanya beda kemasan dan perusahaan yang memproduksinya. Kami menyediakan layanan pesan antar untuk daerah bojongsoang dan sekitarnya, untuk pemesanan minimal adalah 1 dus dan info lebih lanjut silahkan hubungi Customer Service kami di 089512345</string>
+    <string name="minus_button">minus_button</string>
+    <string name="plus_button">plus_button</string>
+    <string name="initial_litre">initial_litre</string>
+
+    <string-array name="air_titles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+        <item>Nestle</item>
+    </string-array>
+
+    <string-array name="air_info">
+        <item>Tap for detail about Ades</item>
+        <item>Tap for detail about Amidis</item>
+        <item>Tap for detail about Aqua</item>
+        <item>Tap for detail about Cleo</item>
+        <item>Tap for detail about Club</item>
+        <item>Tap for detail about Equil</item>
+        <item>Tap for detail about Evian</item>
+        <item>Tap for detail about Leminarale</item>
+        <item>Tap for detail about Pristine</item>
+        <item>Tap for detail about Vit</item>
+        <item>Tap for detail about Nestle</item>
+    </string-array>
+
+    <array name="air_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+        <item>@drawable/nestle</item>
+    </array>
+
+</resources>
